@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+Sitemap: https://Adverza Solutions.com/sitemap.xml
