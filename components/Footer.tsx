@@ -24,7 +24,7 @@ export default function Footer() {
           <Link href="/" className="flex items-center ">
             <img
               // src="/logo.png"
-                src="/logo.svg"
+                src="/logo.jpeg"
               alt="Adverza Solutions"
               className="h-30 mb-4 w-auto object-contain"
             />

@@ -303,7 +303,8 @@ const toggleMenu = (menu: string) => {
           <div className="flex items-center gap-4 text-[#0A4CA3] text-xs md:text-sm font-medium">
             <a href="mailto:AdverzaSolutions.com" className="flex items-center gap-1">
               <Mail size={13} />
-              AdverzaSolutions.com
+             
+              connect@adverzasolution.com
             </a>
 
             <a href="tel:+917668775454" className="flex items-center ">
@@ -323,16 +324,16 @@ const toggleMenu = (menu: string) => {
       </div>
 
       {/* ================= NAVBAR ================= */}
-      <nav className="bg-gradient-to-r from-[#F2F5FA] to-white">
-        <div className="max-w-7xl mx-auto flex items-center justify-between px-4 h-[70px]">
+      <nav className="">
+        <div className="max-w-7xl mx-auto flex items-center justify-between px-4 h-[80px]">
 
           {/* LOGO */}
           <Link href="/">
             <Image
               // src="/logo.png"
-              src="/logo.svg"
+              src="/logo.jpeg"
               alt="logo"
-              width={200}
+              width={85}
               height={160}
             />
           </Link>

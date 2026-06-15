@@ -60,7 +60,7 @@ export default function Loader() {
 
         {/* LOGO */}
         <img
-          src="/logo.svg"
+          src="/logo.jpeg"
           alt="logo"
           className="w-28 md:w-36 animate-pulse"
         />
